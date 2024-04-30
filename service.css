@@ -1,0 +1,32 @@
+
+
+h1{
+	text-align:center;
+	}
+	.page-main{
+	display:block;
+	margin:auto;
+	width:50%;
+	margin-top:100px;
+	}
+	.sevice-offert{
+		display:flex;
+		flex-direction:row;
+		justify-content:center;
+		margin-bottom:100px;
+	}
+	.service-offert > .img{
+		width:500px;
+		align-self:center;
+		border-radius:50px;
+	}
+	.service-offert > .texte{
+		width:500px;
+		margin-left:20px;
+	
+	}
+	.texte p{
+		text-align:justify;
+		font-size:200px;
+		}
+	
